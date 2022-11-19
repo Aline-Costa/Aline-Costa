@@ -1,6 +1,6 @@
 ## Hello, World! 👋
 
-### I'm Aline Costa, a Computer Science student! 
+### I'm Aline Costa, a computer scientist! 
 
 
 <div align="center">
