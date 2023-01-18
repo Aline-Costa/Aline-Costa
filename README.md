@@ -2,11 +2,6 @@
 
 ### I'm Aline Costa, a computer scientist!
 
- <div>
-  <a href="https://github.com/Aline-Costa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aline-Costa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline-Costa&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 ## Areas of Interest 
 <ul>
