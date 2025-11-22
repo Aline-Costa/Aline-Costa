@@ -35,7 +35,7 @@
 
 ##### Demonstration of some projects
 <div> 
-  <a href="https://www.youtube.com/playlist?list=PLfnDGPtYqLlOdnh4jnW-cFWWnieQSlKC0" target="_blank"><img align="center" alt="notion" height="30" width="50" src="https://skillicons.dev/icons?i=youtube"></a>
+  <a href="https://www.youtube.com/playlist?list=PLfnDGPtYqLlOdnh4jnW-cFWWnieQSlKC0" target="_blank"><img align="center" alt="notion" height="30" width="50" src="https://img.icons8.com/?size=96&id=CFgF77P6Dw9p&format=png"></a>
 </div>
  
 ## Contacts
